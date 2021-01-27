@@ -1,6 +1,6 @@
-# List filtering
+# Table filtering
 
-List filtering is an application that will filter your input list based on another list of filter values.
+Table filtering is an application that will filter your input table based on filter values.
 
 ## Installation
 
