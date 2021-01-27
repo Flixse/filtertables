@@ -34,7 +34,7 @@ Let the program know you want to filter or on Column '2' or on Column with Colum
 
 First header| Second Header
 ------------- | -------------
-Content Cell  | Content Cell
+will not be removed  | will not be removed
 
 
 ## Contributing
